@@ -47,7 +47,7 @@ http.createServer(function (req, res) {
 		</head>
 		<body>
 		<header>
-			<h1>Docker Swarm Example App</h1>
+			<h1>Docer Swarm Example App</h1>
 		</header>
 		
 		<section>
